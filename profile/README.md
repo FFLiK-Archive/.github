@@ -7,7 +7,7 @@
 ## 🫠 | Welcome to FFLiK Archive
 
 ### 🔭 | About
-This storage is a space for long-term storage of my completed or equivalent projects.
+This storage is a space for long-term storage of my projects.
 <br/>
 
 ### 🗒️ | License
