@@ -7,10 +7,10 @@
 ## 🫠 | Welcome to FFLiK Archive
 
 ### 🔭 | About
-There are projects that I have done so far.    
+This storage is a space for long-term storage of my completed or equivalent projects.
 <br/>
 
 ### 🗒️ | License
-Most projects are subject to the GPL 3.0 license.      
+Most public projects are subject to the GPL 3.0 license.      
 Please check the license of the repository.
 <br/>
